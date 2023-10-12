@@ -19,8 +19,3 @@ Here are some ideas to get you started:
   <a href="https://github.com/alexanderbenerink">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4250&pause=750&color=C82B61&center=true&vCenter=true&width=435&lines=%3E+Welkom+.+.+.;%3E+Welcome+.+.+.;%3E+Wilkommen+.+.+.;%3E+%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+.+.+." alt="Typing SVG" /></a>
 </p>
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://metrics.lecoq.io/alexanderbenerink?template=terminal&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FAmsterdam">
-</p>
